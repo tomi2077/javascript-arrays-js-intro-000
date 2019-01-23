@@ -32,4 +32,6 @@ var removeElementFromBeginningOfArray = (array) =>{
   return array
 }
 
-destructivelyRemoveElementFromEndOfArray(array)
+var destructivelyRemoveElementFromEndOfArray = (array) =>{
+  array.po
+}
