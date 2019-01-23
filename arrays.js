@@ -13,3 +13,7 @@ var addElementToEndOfArray = (array, element) => {
   return [...array,element];
 }
 
+var addElementToEndOfArray = (array, element) => {
+  array.shift(element)
+  return array
+}
